@@ -15,9 +15,9 @@ format:
 <div style="text-align: center">
 
 
-# Impact of Synthetic Images in the Training of Neural Networks for Airborne Vessel Segmentation 
+# espaço do mundo fantastico 
 
-**Francisco Matilde, Gonçalo Cruz, Diogo Silva**
+**Francisco Matilde, Gonçalo Cruz, Ricardo Martins**
 
 ![](fap_afa.png){width=400}
 
